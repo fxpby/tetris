@@ -2,7 +2,7 @@ var Local = function(){
     //游戏对象
     var game;
     //时间间隔
-    var INTERVAL = 200;
+    var INTERVAL = 300;
     //定时器
     var timer = null;
     //时间计数器
